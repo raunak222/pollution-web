@@ -1,5 +1,5 @@
 
- ![alt text](https://github.com/raunak222/60daysofudacity/blob/master/30_days_of_udacity.jpg)
+ ![alt text](https://github.com/raunak222/pollution-web/blob/master/f6.jpg)
 # pollution-web
 we build a web application whuch measure the pollution level in small area and aware people for pollution.
 
